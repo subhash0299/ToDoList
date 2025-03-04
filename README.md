@@ -37,8 +37,9 @@ The application consists of:
 - **Error handling** for empty input and unselected deletions
 
 ## Screenshots
+Here is a preview of the To-Do List App:
 
-(Include a screenshot of the app here if possible)
+![To-Do List Screenshot](screenshots/todo-list.png)
 
 ## Contributing
 

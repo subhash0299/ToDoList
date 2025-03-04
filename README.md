@@ -39,8 +39,10 @@ The application consists of:
 ## Screenshots
 Here is a preview of the To-Do List App:
 
-![To-Do List Screenshot](screenshots/todo-list.png)
-
+![To-Do List Screenshot 1]("C:\vs code\Python Projects\ToDoList\app photos\SS1 .png")
+![To-Do List Screenshot 2]("C:\vs code\Python Projects\ToDoList\app photos\SS2.png")
+![To-Do List Screenshot 2]("C:\vs code\Python Projects\ToDoList\app photos\no task entered.png")
+![To-Do List Screenshot 2]("C:\vs code\Python Projects\ToDoList\app photos\no task selected before deleting.png")
 ## Contributing
 
 Feel free to fork this repository and make improvements. If you find any bugs or have feature requests, open an issue.

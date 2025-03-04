@@ -40,10 +40,12 @@ The application consists of:
 ## Screenshots
 Here is a preview of the To-Do List App:
 
-![To-Do List Screenshot 1](screenshots/SS1.png)
-![To-Do List Screenshot 2](screenshots/SS2.png)
+
+![To-Do List Screenshot](screenshots/SS1.png)
 ![No Task Entered](screenshots/no_task_entered.png)
 ![No Task Selected](screenshots/no_task_selected.png)
+![No Task Selected](screenshots/SS2.png)
+
 
 ## Contributing
 
